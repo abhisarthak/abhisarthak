@@ -18,7 +18,7 @@
 
 ---
 
-## Tech Stack
+## Core Skills & Tools 🛠️
 - Python
 - Pandas
 - NumPy
