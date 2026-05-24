@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Abhishek Kumar 👋
 
-<!--
-**abhisarthak/abhisarthak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- ORDA student at IIT Kharagpur
+- Learning Data Analytics, Machine Learning & Decision Intelligence
+- Building projects in Python, SQL, Pandas, and Machine Learning
+- Interested in analytics, optimization, and real-world problem solving
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Learning
+- Python
+- SQL
+- Pandas
+- Data Visualization
+- Machine Learning
+- Git & GitHub
+
+---
+
+## Featured Project
+
+### Traffic Volume Prediction Analysis
+- Traffic data analysis using Python
+- Visualization using Matplotlib
+- Linear Regression & Random Forest Regression
+- Error analysis by hour and holiday
+
+🔗 Repository:
+https://github.com/abhisarthak/traffic-volume-prediction-analysis
+
+---
+
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SQL
+- Git & GitHub
+
+---
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/abhisarthak25/
+- X/Twitter: https://x.com/AbhiQuant
