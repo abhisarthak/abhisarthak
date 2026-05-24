@@ -18,18 +18,29 @@
 
 ---
 
-## Featured Project
+## Featured Projects 🚀
 
-### Traffic Volume Prediction Analysis
-- Traffic data analysis using Python
-- Visualization using Matplotlib
-- Linear Regression & Random Forest Regression
-- Error analysis by hour and holiday
+### 🚦 Traffic Volume Prediction Analysis
+Traffic volume prediction and analysis using Python, Pandas, Matplotlib, Linear Regression, and Random Forest Regression.
 
 🔗 Repository:
 https://github.com/abhisarthak/traffic-volume-prediction-analysis
 
 ---
+
+### 📦 Inventory Optimization ML
+Machine learning and analytics project focused on inventory optimization and decision intelligence.
+
+🔗 Repository:
+https://github.com/abhisarthak/inventory-optimization-ml
+
+---
+
+### ⚙️ Pump Predictive Maintenance
+Predictive maintenance project using machine learning techniques for industrial pump monitoring.
+
+🔗 Repository:
+https://github.com/abhisarthak/Pump-Predictive-Maintenance---ML
 
 ## Tech Stack
 - Python
