@@ -18,6 +18,18 @@
 
 ---
 
+## Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SQL
+- Git & GitHub
+  
+---
+
+
 ## Featured Projects 🚀
 
 ### 🚦 Traffic Volume Prediction Analysis
@@ -42,14 +54,7 @@ Predictive maintenance project using machine learning techniques for industrial 
 🔗 Repository:
 https://github.com/abhisarthak/Pump-Predictive-Maintenance---ML
 
-## Tech Stack
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- SQL
-- Git & GitHub
+
 
 ---
 
