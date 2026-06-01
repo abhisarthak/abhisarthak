@@ -68,6 +68,11 @@ Explainable shipment cost prediction using XGBoost, SHAP, and real-world supply 
 🔗 Repository:
 https://github.com/abhisarthak/shipment-cost-prediction-xgboost
 
+### AI-Driven Circular Supply Chain Optimization
+Decision Intelligence framework for optimizing Circular Supply Chains using Machine Learning, Operations Research, Reverse Logistics, and Sustainability Analytics.
+
+🔗 Repository:
+https://github.com/abhisarthak/AI-Driven-Circular-Supply-Chain-Optimization
 
 ---
 
