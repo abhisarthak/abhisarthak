@@ -62,7 +62,11 @@ A simulation-based accident and impact analysis of the 1984 Bhopal Gas Tragedy u
 🔗 Repository:
 https://github.com/abhisarthak/bhopal-gas-tragedy-analysis
 
+### 🚚 Shipment Cost Prediction using XGBoost & SHAP
+Explainable shipment cost prediction using XGBoost, SHAP, and real-world supply chain data.
 
+🔗 Repository:
+https://github.com/abhisarthak/shipment-cost-prediction-xgboost
 
 
 ---
