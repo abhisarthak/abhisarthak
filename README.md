@@ -12,6 +12,7 @@
 - Python
 - SQL
 - Pandas
+- NumPy
 - Data Visualization
 - Machine Learning
 - Git & GitHub
@@ -24,6 +25,7 @@
 - NumPy
 - Matplotlib
 - Scikit-learn
+- Seaborn
 - SQL
 - Git & GitHub
   
