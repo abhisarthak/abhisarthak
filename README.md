@@ -56,6 +56,13 @@ Predictive maintenance project using machine learning techniques for industrial 
 🔗 Repository:
 https://github.com/abhisarthak/Pump-Predictive-Maintenance---ML
 
+### Bhopal Gas Tragedy Analysis 
+A simulation-based accident and impact analysis of the 1984 Bhopal Gas Tragedy using Python models, gas dispersion simulation, and safety economics concepts.
+
+🔗 Repository:
+https://github.com/abhisarthak/bhopal-gas-tragedy-analysis
+
+
 
 
 ---
